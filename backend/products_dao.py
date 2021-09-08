@@ -45,6 +45,7 @@ if __name__ == "__main__":
             'uom_id': '1',
             'price_per_unit': '20'
         }))
-        print(get_all_products(connection))
     """
-    print(delete_product(connection, 3))
+    #print(get_all_products(connection))
+
+    p#rint(delete_product(connection, 2))
